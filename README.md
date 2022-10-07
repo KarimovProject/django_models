@@ -5,4 +5,7 @@
 - email
 - phone_number
 
-## Make two object with User model
+## Make two object with User model using admin site
+
+# Create a view that returns Users objects with specific url for all fields 
+## head over two urls in projects folder for more explanations
